@@ -11,14 +11,11 @@
 @import 'components/botones';
 
 // LAYOUT
-@import 'layout/footer';
-@import 'layout/forms';
-@import 'layout/grid';
-@import 'layout/header';
-@import 'layout/navegador';
-@import 'layout/sidebar';
+@import 'layouts/grids';
+@import 'layouts/container';
+@import 'layouts/navegador';
+@import 'layouts/sectioninfo';
+@import 'layouts/sectionNav';
+@import 'layouts/mediaqueris';
 
-// PAGES
-@import 'pages/blog';
-@import 'pages/galeria';
-@import 'pages/index';
+
